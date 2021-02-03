@@ -103,7 +103,7 @@ var groceryStore = {
   name: "King Soopers",
   isOpen: true,
 };
-//Other key value pairs to add to this object: managerName: "John Smith", openTime: 5, closeTime: 12
+//Other key value pairs to add to this object: managerName: "John Smith", openTime: 5, closeTime: 12, etc.
 
 // Write the code to add the key of location, with the value of 'Denver, Colorado'. Use dot
 // notation to do this. DO NOT modify your code from above.
